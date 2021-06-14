@@ -4,7 +4,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>LazyCrypto - free crypto</title>
+  <title>SuperCrypto - free crypto</title>
   <meta name="description" content="Claim free crypto every 15 minutes, no login needed!">
   <meta name="keywords" content="crypto, free crypto, crypto trading, crypto.com, binance.com, 0xtrading, bitcoin, xmr, etherium">
   <meta name="author" content="Hui Liao">
@@ -44,7 +44,7 @@
 </script>
 </head>
 <center>
-    <h1>LazyCrypto</h1>
+    <h1>SuperCrypto</h1>
 <h6>Welcome to earn free crypto! You can earn free crypto from us by visiting the site every 15 minutes! And no, this isn't some shady scam where you have to insert your info or even login!</h6>
 <hr>
 <h5>Cryptos we offer:</h5>
