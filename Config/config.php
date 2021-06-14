@@ -9,7 +9,7 @@
     $host = "localhost";
     $user = "root";
     $pass = "MyS3cretPassw0rd";
-    $dbname = "lazycrypto";
+    $dbname = "supercrypto";
     $sql = new SQLFill($host, $user, $pass, $dbname);
    
 ?>
