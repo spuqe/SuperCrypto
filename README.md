@@ -3,8 +3,8 @@ Free crypto currency website, a-ads support and more. Make extra money using thi
 
 # How to setup?
 To setup LazyCrypto you will need PHP, SQL, PHPMYADMIN and so on the basic stuff, I will leave a link here of how to install all those: 
-Ubuntu 18.04:
 
+Ubuntu 18.04:
 https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04
 https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-18-04
 
