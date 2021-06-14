@@ -1,8 +1,8 @@
-# LazyCrypto
+# SuperCrypto
 Free crypto currency website, a-ads support and more. Make extra money using this or just collect user data as email, wallet, IP or if you want to add more go a head and do that.
 
 # How to setup?
-To setup LazyCrypto you will need PHP, SQL, PHPMYADMIN and so on the basic stuff, I will leave a link here of how to install all those: 
+To setup SuperCrypto you will need PHP, SQL, PHPMYADMIN and so on the basic stuff, I will leave a link here of how to install all those: 
 
 Ubuntu 18.04:
 https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04
