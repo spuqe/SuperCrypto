@@ -29,3 +29,4 @@ CREATE TABLE users (
 Goto /config/Config.php and enter your database credientals and host, host should be localhost as default if you're hosting the site from same server/pc.
 
 And now you're ready to go!
+You can create a-ads account at https://a-ads.com/ or use some other advertising media.
