@@ -14,7 +14,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmy
 
 What then? Well you need to create database "lazycrypto" to your phpmyadmin account.
 ```
-CREATE DATABASE lazycrypto;
+CREATE DATABASE supercrypto;
 ```
 Then table 
 ```
